@@ -1,0 +1,7 @@
+export default {
+    THEME:"THEME",
+    PRODUCTLIST:"PRODUCTLIST",
+    LOADING:"LOADING",
+    NAME:"NAME",
+    SHOPNUM:"SHOPNUM"
+}
